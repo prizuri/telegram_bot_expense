@@ -68,7 +68,7 @@ Project Settings → Script Properties
 |---|---:|---|---|
 | `BOT_TOKEN` | Ya | `123456:ABC...` | Token bot dari BotFather |
 | `ALLOWED_USER_IDS` | Ya | `123456789` atau `123,456` | ID Telegram yang diizinkan memakai bot |
-| `WEBHOOK_SECRET` | Ya | `uangbot-webhook-123` | Secret sederhana agar URL webhook tidak mudah dipakai orang lain |
+| `WEBHOOK_SECRET` | Ya | `botuang-web-123` | Secret sederhana agar URL webhook tidak mudah dipakai orang lain |
 | `WEB_APP_URL` | Ya | `https://script.google.com/macros/s/.../exec` | URL Web App dari deployment Apps Script |
 
 ### Properti yang dibuat otomatis oleh sistem
