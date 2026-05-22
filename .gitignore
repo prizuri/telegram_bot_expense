@@ -1,0 +1,17 @@
+# Local / OS
+.DS_Store
+Thumbs.db
+
+# Apps Script local config
+.clasp.json
+.clasprc.json
+
+# Secrets / environment files
+.env
+.env.*
+secrets.*
+credentials.*
+service-account*.json
+
+# Logs
+*.log
